@@ -6,6 +6,10 @@ Den tekniska dokumentationen beskriver hur du som datapartner strukturerar, mär
 
 På [Riksantikvarieämbetets hemsida](https://www.raa.se/museer/digital-omstallning-pa-museiomradet/k-samsok-en-digital-dataformedlingstjanst-for-kulturarv/) hittar du mer information om K-samsök och hur du går med eller använder data från tjänsten. 
 
+### Dokumentationen är i alpha-stadie
+
+Den tekniska dokumentationen är under utveckling och bör betraktas som en tidig alpha-release för att underlätta överblick över tjänsten. Du som användare behöver vara medveten om att felaktigheter kan förekomma och att delar av dokumentationen ännu inte är färdigställd. 
+
 ## Vem vänder sig dokumentationen till?
 
 | Du är … | … och vill | Börja här |
