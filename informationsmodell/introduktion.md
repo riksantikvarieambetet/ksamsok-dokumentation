@@ -34,4 +34,4 @@ Den viktigaste faktorn för att utveckla data inom K-samsök är att använda ge
 
 ## Fortsatt läsning
 
-[
+[Informationsmodellen](informationsmodell.md)
