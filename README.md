@@ -12,7 +12,7 @@ På [Riksantikvarieämbetets hemsida](https://www.raa.se/museer/digital-omstalln
 |---|---|---|
 | **Informationsförvaltare** eller samlingsansvarig | förstå vad som krävs av er data och hur den ska klassificeras | [Introduktion till informationsmodellen](informationsmodell/introduktion.md) |
 | **Utvecklare** som bygger en export eller mappning | veta exakt hur en post ska se ut i JSON-LD | [Informationsmodell](informationsmodell/informationsmodell.md) |
-| Redan insatt och vill **slå upp** en detalj | hitta krav, attribut eller en term | [Krav på attribut](informationsmodell/informationsmodell/informationsmodell.md#4-minimum-viable-object-obligatoriska-attribut-för-leverans), [Komplett referensdiagram](informationsmodell/modeldiagram.md) |
+| Redan insatt och vill **slå upp** en detalj | hitta krav, attribut eller en term | [Krav på attribut](informationsmodell/informationsmodell.md#4-minimum-viable-object-obligatoriska-attribut-för-leverans), [Komplett referensdiagram](informationsmodell/modeldiagram.md) |
 
 
 
